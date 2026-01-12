@@ -83,7 +83,11 @@ Startup stage companies were particularly vulnerable to complete closure
 This analysis reveals the profound impact of the COVID-19 pandemic on global employment, with several key takeaways:
 
 Scale of Impact: The dataset captures nearly 3,000 layoff events affecting hundreds of thousands of workers across multiple industries and countries
+
 Tech Sector Vulnerability: Despite being positioned for remote work, the technology sector experienced disproportionate workforce reductions, suggesting business model challenges beyond pandemic logistics
+
 No Company Too Big: Even tech giants with massive resources (Google, Twitter) conducted significant layoffs, indicating systemic economic pressures
+
 Startup Fragility: Over 100 companies completely shut down, highlighting how economic uncertainty disproportionately affected early-stage ventures regardless of funding
+
 Extended Timeline: Layoffs continued well into 2023, demonstrating that workforce impacts outlasted the immediate health crisis
